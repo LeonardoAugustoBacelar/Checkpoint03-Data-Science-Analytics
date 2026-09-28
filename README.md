@@ -7,7 +7,7 @@ Aplicação analítica interativa em **Streamlit** que reúne os resultados das 
 projeto: os indicadores (KPIs) construídos no Checkpoint 1 e a modelagem preditiva do
 Checkpoint 2, permitindo explorar os dados de forma organizada e intuitiva.
 
-**URL da aplicação hospedada:** _(preencher após o deploy — ver seção "Deploy" abaixo)_
+**URL da aplicação hospedada:** https://checkpoint03-data-science-analytics-ersv8bpuatagxuamqrfvgn.streamlit.app/
 **URL do repositório:** https://github.com/LeonardoAugustoBacelar/Checkpoint03-Data-Science-Analytics
 
 ---
